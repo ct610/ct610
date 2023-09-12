@@ -1,4 +1,10 @@
-body {background-color: coral;}
+<head>
+<style>
+.myDiv {
+  background-color: lightblue;
+}
+</style>
+</head>
 <div>
   <h1>welcome.</h1>
   <p>i'm really bad at this shit but hopefully over
