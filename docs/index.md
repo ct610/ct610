@@ -1,12 +1,4 @@
-<html>
-<head>
-<style>
-.myDiv {
-  background-color: lightblue;
-}
-</style>
-</head>
-</html>
+
 <div>
   <h1>welcome.</h1>
   <p>i'm really bad at this shit but hopefully over
