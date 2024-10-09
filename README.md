@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# fun fact: i've been struggling to get my actual react code to run instead of the readme for like 2 hours lmao
-
-### ignore my vercel project for now, still working on it
